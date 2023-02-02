@@ -46,3 +46,4 @@
 | kmod-mac80211         | wifi支持                   | 位置：Kernel modules -> Wireless Drivers                                         | 是    |
 | kmod-brcmfmac         | 博通无线网卡驱动                 | 位置：Kernel modules -> Wireless Drivers                                         | 是    |
 | kmod-brcmutil         | 博通无线网卡驱动                 |                                                                               | 是    |
+| hostapd               | wifi热点支持                 | 位置：Network > WirelessAPD                                                      | 是    |
