@@ -31,12 +31,11 @@
 | luci-app-wifischedule | wifi计划任务                 |                                                                               | 是    |
 | luci-app-wol          | 网络唤醒                     |                                                                               | 是    |
 | luci-app-zerotier     | Zerotier虚拟局域网            |                                                                               | 是    |
-| luci-theme-argon      | Argon主题                  |                                                                               |      |
+| luci-theme-argonne    | Argonne主题                |                                                                               | 是    |
 | odhcp6c               | dhcpv6客户端                | 位置：Network                                                                    |      |
 | odhcpd-ipv6only       | dhcpv6服务端                |                                                                               |      |
 | luci-proto-ipv6       | ipv6协议支持                 | 位置：LuCI->Protocols                                                            |      |
 | luci-proto-ppp        | ppp/pppoe/pppoa/pptp协议支持 |                                                                               |      |
-| zsh                   | zsh命令行                   | 位置：Utilities -> Shells                                                        |      |
 | fdisk                 | mbr分区工具                  | 位置：Utilities -> disc                                                          |      |
 | gdisk                 | gbt分区工具                  |                                                                               |      |
 | I18N                  | 管理界面翻译相关                 | 位置：LuCI->Modules->Translations                                                |      |
