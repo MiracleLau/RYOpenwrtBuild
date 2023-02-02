@@ -32,10 +32,15 @@
 | luci-app-wol          | 网络唤醒                     |                                                                               | 是    |
 | luci-app-zerotier     | Zerotier虚拟局域网            |                                                                               | 是    |
 | luci-theme-argonne    | Argonne主题                |                                                                               | 是    |
-| odhcp6c               | dhcpv6客户端                | 位置：Network                                                                    |      |
-| odhcpd-ipv6only       | dhcpv6服务端                |                                                                               |      |
-| luci-proto-ipv6       | ipv6协议支持                 | 位置：LuCI->Protocols                                                            |      |
-| luci-proto-ppp        | ppp/pppoe/pppoa/pptp协议支持 |                                                                               |      |
-| fdisk                 | mbr分区工具                  | 位置：Utilities -> disc                                                          |      |
-| gdisk                 | gbt分区工具                  |                                                                               |      |
-| I18N                  | 管理界面翻译相关                 | 位置：LuCI->Modules->Translations                                                |      |
+| ds_lite               | 支持dslite                 | 位置：Network                                                                    | 是    |
+| odhcp6c               | dhcpv6客户端                | 位置：Network                                                                    | 是    |
+| odhcpd-ipv6only       | dhcpv6服务端                |                                                                               | 是    |
+| ipv6helper            | ipv6支持相关                 | 位置：Extra packages                                                             | 是    |
+| luci-proto-ipv6       | ipv6协议支持                 | 位置：LuCI->Protocols                                                            | 是    |
+| luci-proto-ppp        | ppp/pppoe/pppoa/pptp协议支持 |                                                                               | 是    |
+| fdisk                 | mbr分区工具                  | 位置：Utilities -> disc                                                          | 是    |
+| gdisk                 | gbt分区工具                  |                                                                               | 是    |
+| I18N                  | 管理界面翻译相关                 | 位置：LuCI->Modules->Translations                                                | 是    |
+| ddns-scripts          | ddns的脚本                  | 位置：Network->IP Addresses and Names                                            | 是    |
+| bind-host             | bind dns客户端              | 位置：Network->IP Addresses and Names                                            | 是    |
+| kmod-mac80211         | wifi支持                   | 位置：Kernel modules -> Wireless Drivers                                         | 是    |
