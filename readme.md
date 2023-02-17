@@ -21,7 +21,8 @@
 | luci-app-nlbwmon        | 带宽监控                     |                                                                               | 是    |
 | luci-app-nps            | 内网穿透工具nps                |                                                                               | 是    |
 | luci-app-openclash      | openclash                | feeds.conf.default中添加：src-git https://github.com/kenzok8/openwrt-packages.git | 否    |
-| luci-app-qos            | qos                      |                                                                               | 是    |
+| luci-app-passwall2      | passwall2                |                                                                               | 否    |
+| luci-app-qos            | qos                      | 暂时去除                                                                          | 是    |
 | luci-app-samba4         | samba支持                  |                                                                               | 是    |
 | luci-app-statistics     | 流量监控                     |                                                                               | 是    |
 | luci-app-sqm            | 智能流控                     |                                                                               | 是    |
