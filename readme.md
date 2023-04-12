@@ -20,13 +20,14 @@
 | luci-app-hd-idle        | 硬盘自动休眠                   |                                                                               |
 | luci-app-nlbwmon        | 带宽监控                     |                                                                               |
 | luci-app-nps            | 内网穿透工具nps                |                                                                               |
+| luci-app-openclash      | openclash                | 添                                                                             |
+| luci-app-passwall2      | passwall2                |                                                                               |
 | luci-app-samba4         | samba支持                  |                                                                               |
 | luci-app-statistics     | 流量监控                     |                                                                               |
 | luci-app-sqm            | 智能流控                     |                                                                               |
 | luci-app-turboacc       | TurboAcc加速               |                                                                               |
 | luci-app-ttyd           | 命令行终端                    |                                                                               |
 | luci-app-upnp           | upnp                     |                                                                               |
-| luci-app-vssr           | vssr                     |                                                                               |
 | luci-app-wifi-schedule  | wifi计划任务                 |                                                                               |
 | luci-app-wol            | 网络唤醒                     |                                                                               |
 | luci-app-zerotier       | Zerotier虚拟局域网            |                                                                               |
