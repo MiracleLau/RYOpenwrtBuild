@@ -18,9 +18,9 @@
 | luci-app-frpc           | 内网穿透工具frpc客户端            |                                                                               |
 | luci-app-guestwifi      | 访问wifi支持                 |                                                                               |
 | luci-app-hd-idle        | 硬盘自动休眠                   |                                                                               |
+| luci-app-mosdns2        | mosdns转发器                |                                                                               |
 | luci-app-nlbwmon        | 带宽监控                     |                                                                               |
 | luci-app-nps            | 内网穿透工具nps                |                                                                               |
-| luci-app-openclash      | openclash                |                                                                              |
 | luci-app-passwall2      | passwall2                |                                                                               |
 | luci-app-samba4         | samba支持                  |                                                                               |
 | luci-app-statistics     | 流量监控                     |                                                                               |
